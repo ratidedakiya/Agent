@@ -1,3 +1,4 @@
+
 # AI Integration Tutor Application
 
 A comprehensive multi-agent AI tutoring system with voice interaction, avatar support, and intelligent content generation. Built with FastAPI backend, React frontend, and LangChain/LangGraph for AI orchestration.
@@ -318,3 +319,4 @@ For support and questions:
 ---
 
 Built with ❤️ using FastAPI, React, LangChain, and LangGraph.
+
